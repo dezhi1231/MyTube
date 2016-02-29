@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyTube</string>
+    <string name="action_settings">设置</string>
+
+    <string name="btn_web_back_val">后退</string>
+    <string name="btn_web_forward_val">前进</string>
+    <string name="btn_download_val">下载</string>
+
+    <string name="btn_ok">确定</string>
+    <string name="btn_cancel">取消</string>
+
+
+    <string name="download_progressDialog_title">提示</string>
+    <string name="download_progressDialog_message">操作中,请稍后...</string>
+    <string name="download_parse_err_message">操作失败</string>
+
+
+
+
+
+
+</resources>
